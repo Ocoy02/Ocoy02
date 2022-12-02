@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ocoy02
-- 👀 I’m interested in ...codding
-- 🌱 I’m currently learning ...programer
+- 👀 I’m interested in ...programer
+- 🌱 I’m currently learning ...codding
 - 💞️ I’m looking to collaborate on ...here
 - 📫 How to reach me ...email : tutinurindahsari22@gmail.com
 
